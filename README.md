@@ -6,4 +6,4 @@ $ cd Termux-real-keyboard
 $ chmod +x setup-real-keyboard.sh
 $ ./setup-real-keyboard.sh
 
-Better use this on an iPad cuz the screen's bigger
+Better use this on a tablet cuz they got bigger screens
